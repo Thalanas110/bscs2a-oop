@@ -1,1 +1,2 @@
-# bscs2a-oop
+# LOUDEL M. MANALOTO
+# SOFTWARE ENGINEER
